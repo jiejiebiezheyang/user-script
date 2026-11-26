@@ -3,7 +3,7 @@
 // @namespace    video-overlay-enhanced
 // @version      2.2.0
 // @description  紧凑控件 + 完善全屏切换 + 锁定后支持单击显示控件
-// @author       empty cyan
+// @author       https://github.com/jiejiebiezheyang
 // @match        *://*/*
 // @grant        none
 // @run-at       document-idle
